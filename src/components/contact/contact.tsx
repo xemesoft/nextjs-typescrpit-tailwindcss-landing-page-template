@@ -34,7 +34,7 @@ export default function Contact() {
               <div className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-to-r from-purple-600 to-purple-800 dark:from-purple-300 dark:to-purple-500 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-in-out" />
             </div>
             <p className="max-w-[600px] text-purple-800 dark:text-purple-200 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              We're here to help and answer any question you might have. We look
+              We&apos;re here to help and answer any question you might have. We look
               forward to hearing from you and creating something amazing
               together.
             </p>
