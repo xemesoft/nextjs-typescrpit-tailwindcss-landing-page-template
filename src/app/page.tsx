@@ -8,6 +8,7 @@ import Pricing from "@/components/pricing/pricing";
 import Faq from "@/components/faq/faq";
 import Team1 from "@/components/team/team";
 import Contact from "@/components/contact/contact";
+import Section from "@/components/section/section";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         <Hero />
       </div>
       <Feature />
+      <Section />
       <Team1 />
       <Testimonial />
       <Pricing />
